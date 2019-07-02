@@ -1,14 +1,16 @@
-# raai2019hackface
+# RAAI Summer School 2019
 
-## Kaggle competition link
+## Hackathon "Metric learning for facial descriptors" (Alexander Petyushko, Huawei) 
+
+### Kaggle competition link
 
 https://www.kaggle.com/c/metric-learning/overview
 
-## Telegram discussion group
+### Telegram discussion group
 
 https://t.me/joinchat/B2iAGhBq7EaqwFtmPRelRw
 
-## Rules
+### Rules
 
 If you have succeeded with your distance function, please make a pull request into this repo (obligatory for first three places based on private leaderboard) using meaningful filename like `FIO_method.py`.
 
